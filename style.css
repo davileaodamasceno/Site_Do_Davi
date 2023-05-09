@@ -8,3 +8,8 @@ background-color: rgb(129, 247, 225);
 h1{
     border-style: dashed;
 }
+p{
+    background-color:aliceblue; 
+    width:500px; 
+    margin-left:500px;
+}
